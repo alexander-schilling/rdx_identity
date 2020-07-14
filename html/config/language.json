@@ -1,0 +1,10 @@
+{
+    "CreateCharacter": "Crear personaje",
+    "Play": "Jugar",
+    "Firstname": "Nombre",
+    "Lastname": "Apellido",
+    "Male": "Masculino",
+    "Female": "Femenino",
+    "Register": "Registro",
+    "UniqueId": "ID único"
+}
